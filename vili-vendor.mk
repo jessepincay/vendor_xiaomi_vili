@@ -647,6 +647,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamera_dirty.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_dirty.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamera_nn_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_nn_stub.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamera_scene.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_scene.so \
+    vendor/xiaomi/vili/proprietary/vendor/lib64/libcamera_scene_dxo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_scene_dxo.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamerapostproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamerapostproc.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamlog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamlog.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamxexternalformatutils.so \
@@ -669,6 +670,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcom.xiaomi.grallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom.xiaomi.grallocutils.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcom.xiaomi.metadatautils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom.xiaomi.metadatautils.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcom.xiaomi.pluginutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom.xiaomi.pluginutils.so \
+    vendor/xiaomi/vili/proprietary/vendor/lib64/libcup_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcup_preview.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libcvface_api.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcvface_api.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libfocus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfocus.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
